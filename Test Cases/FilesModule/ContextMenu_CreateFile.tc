@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ContextMenu_CreateFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7077a082-073f-42f6-8746-4b04b8cd5615</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3756e78-bbe4-48a0-a4d5-6ec6bd47bc77</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e498ee0-1e20-4b3b-9d60-6205daa1c0bb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bfcee239-bd9a-4fca-98de-44045bb08518</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tw\\o.txt'</defaultValue>
+      <description></description>
+      <id>a3756e78-bbe4-48a0-a4d5-6ec6bd47bc77</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>2e498ee0-1e20-4b3b-9d60-6205daa1c0bb</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Negative'</defaultValue>
+      <description></description>
+      <id>bfcee239-bd9a-4fca-98de-44045bb08518</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

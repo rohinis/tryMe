@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TestAppSaved</name>
+   <tag></tag>
+   <elementGuidId>81ccbc7b-beab-4710-93b2-b4f81495e865</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'TestSaved')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-automation-id = 'TestSaved']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>054e495c-77ef-4cee-b49a-56a7b8569915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>TestSaved</value>
+      <webElementGuid>5b704304-879e-4c84-8a58-e7abaa536303</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

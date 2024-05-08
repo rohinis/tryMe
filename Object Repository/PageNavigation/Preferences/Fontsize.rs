@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Fontsize</name>
+   <tag></tag>
+   <elementGuidId>2c94ee4a-8d4f-4812-8c7f-d512be2673a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(contains(text(), '12px') or contains(., '12px'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7daca786-75e4-4886-ae6d-76ee4690e0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>12px</value>
+      <webElementGuid>d191b7c1-76b6-40d6-a4a3-e7e7cc8e4a51</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

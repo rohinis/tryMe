@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Completed</name>
+   <tag></tag>
+   <elementGuidId>c367a73c-8a71-42c0-b3a7-cec46bb4fc25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@title = 'Completed']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list_4375.blrvm16vm16_row']/div/div[3]/div/div/div/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f754325a-bbe9-4c94-89b4-cf297187e382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Completed</value>
+      <webElementGuid>09973716-2a7b-4645-b4c2-5bbc818a67e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list_4375.blrvm16vm16_row']/div/div[3]/div/div/div/span/div</value>
+      <webElementGuid>2c720cc4-9939-4ca3-9e90-670f19bd6748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ShortCutRunJob'])[1]/following::div[5]</value>
+      <webElementGuid>3266bbd4-bb17-4bf6-ab4a-8dc8224938a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::div[27]</value>
+      <webElementGuid>998c3348-4fab-4ea8-8b85-9830473ff3df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rohini@blrvm16vm16'])[1]/preceding::div[7]</value>
+      <webElementGuid>4df9c51a-3131-4f3a-9052-c78e0cc4d161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RunJob'])[1]/preceding::div[23]</value>
+      <webElementGuid>43fc92b5-1365-473d-9ff1-cd7d784474d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/span/div</value>
+      <webElementGuid>6e89d786-d3ed-4ae9-bbb8-c2f9f441fea4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

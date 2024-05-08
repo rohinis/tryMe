@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lable_SubmitJobUsing</name>
+   <tag></tag>
+   <elementGuidId>c60227ff-7a8d-43fa-aa96-61232c44f3eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(contains(text(), 'Submit Job Using:') or contains(., 'Submit Job Using:')) and @id = 'jobs_tab_title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>81dafa16-b7e2-4fe0-8c9a-acdb35f8d972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Job Using:</value>
+      <webElementGuid>2a413a48-1c15-4288-a8cd-87f990a9ad94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>jobs_tab_title</value>
+      <webElementGuid>f56b5882-fc23-4726-875c-04855386daea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FileOperations _Topmenu_Icons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>043e9217-fee6-4a16-9d2f-986337eb7cb5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fef0a116-14fc-4f5d-9698-dc91f7dc6011</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8e11563-2a37-4cb2-93bb-34d05ea7171c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48764322-b43e-4cf8-a125-8a2f6a070349</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ToCopy_TV.txt'</defaultValue>
+      <description></description>
+      <id>fef0a116-14fc-4f5d-9698-dc91f7dc6011</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'copy_icon tile view'</defaultValue>
+      <description></description>
+      <id>d8e11563-2a37-4cb2-93bb-34d05ea7171c</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'copy_icon'</defaultValue>
+      <description></description>
+      <id>48764322-b43e-4cf8-a125-8a2f6a070349</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+</TestCaseEntity>

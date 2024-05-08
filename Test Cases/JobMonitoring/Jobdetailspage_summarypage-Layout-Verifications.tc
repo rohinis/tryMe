@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Jobdetailspage_summarypage-Layout-Verifications</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdf4e645-2162-4e57-a3d2-cf9541129f29</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9ddff65-dbdd-43df-9732-32237ac18f55</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60839071-ac4c-4419-b918-d5dc0ab90412</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25cf6dfc-64f4-471a-9221-c1ddbf78b044</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>f9ddff65-dbdd-43df-9732-32237ac18f55</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fields'</defaultValue>
+      <description></description>
+      <id>60839071-ac4c-4419-b918-d5dc0ab90412</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fields'</defaultValue>
+      <description></description>
+      <id>25cf6dfc-64f4-471a-9221-c1ddbf78b044</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

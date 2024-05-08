@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>App_Composer-New Testcases 3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98cf87b2-ed2e-4ada-a9fe-417d884f5b77</testCaseGuid>
+   <variable>
+      <defaultValue>'Add user'</defaultValue>
+      <description></description>
+      <id>750197ea-7044-4a1f-ad18-7ef3820e1903</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Share'</defaultValue>
+      <description></description>
+      <id>e06611b0-e2e1-4556-8d41-8ebb99b2c6dd</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>'Shareapp'</defaultValue>
+      <description></description>
+      <id>b50b46dc-f3a2-4f4b-b8ae-c03b442bb31e</id>
+      <masked>false</masked>
+      <name>app</name>
+   </variable>
+   <variable>
+      <defaultValue>'sh Running.sh'</defaultValue>
+      <description></description>
+      <id>116d01a5-41ff-4dbf-b60e-d95fa815fbe2</id>
+      <masked>false</masked>
+      <name>exec</name>
+   </variable>
+   <variable>
+      <defaultValue>'.sh'</defaultValue>
+      <description></description>
+      <id>65fa2174-d915-46b6-b06c-1e65e66d709b</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+</TestCaseEntity>

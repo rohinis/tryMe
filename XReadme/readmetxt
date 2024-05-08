@@ -1,0 +1,20 @@
+pre-req for access_managment
+
+1)user-      vizuser
+2)role -    Appuser,  demo1
+
+Appcomposer
+clear the access-managemnt roles and users before running appcomposer as it will create demo role name
+
+pre-req for hiddden folder
+
+*ForHidden Folder should be present in /stage/pbsworks (username)
+*inside ForHidden
+
+.hiddenfile
+.hiddenFolder should be present
+
+*submit job using runjob.sh file  and hiddenFolder as output folder and give sleep 1000 (in runjob.sh for running)
+
+*jobs in running state and jobs in completed state
+

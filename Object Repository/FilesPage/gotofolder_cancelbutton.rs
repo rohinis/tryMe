@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>gotofolder_cancelbutton</name>
+   <tag></tag>
+   <elementGuidId>ad20c6ca-d17e-42d3-81dc-a8620d79aaad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'cancel-goto-folder-modal-btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b37e1cf6-03ff-47a9-a13c-f3e9f6f24007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cancel-goto-folder-modal-btn</value>
+      <webElementGuid>f81564f8-e7bc-4285-84b6-82d051f177d7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

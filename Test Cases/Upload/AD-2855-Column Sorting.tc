@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AD-2855-Column Sorting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41011cee-71c0-42dd-9ef3-43b646bbc451</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00b7731d-b760-4882-878e-da6d96662b41</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aabfaf6d-51fd-4061-9821-85df17cf22ae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f68b7d4-a899-4d69-9a4a-b349b5d1e2dc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jobs section: Column sorting In the Jobs Page'</defaultValue>
+      <description></description>
+      <id>00b7731d-b760-4882-878e-da6d96662b41</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'application'</defaultValue>
+      <description></description>
+      <id>aabfaf6d-51fd-4061-9821-85df17cf22ae</id>
+      <masked>false</masked>
+      <name>colid</name>
+   </variable>
+   <variable>
+      <defaultValue>'Application'</defaultValue>
+      <description></description>
+      <id>4f68b7d4-a899-4d69-9a4a-b349b5d1e2dc</id>
+      <masked>false</masked>
+      <name>colname</name>
+   </variable>
+</TestCaseEntity>

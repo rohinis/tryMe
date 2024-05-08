@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultiFolderOperations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc9ef15f-126c-48b0-85ea-c5a857bc2393</testCaseGuid>
+   <variable>
+      <defaultValue>'Delete'</defaultValue>
+      <description></description>
+      <id>e6d4ba88-892e-4ef8-b53a-e6b55ec680e2</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>0097638b-1f5a-462e-b048-770279dabb83</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cut'</defaultValue>
+      <description></description>
+      <id>5a152715-8840-4b70-88a0-2c0ec1b90476</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TestApp_left</name>
+   <tag></tag>
+   <elementGuidId>3eb03c8e-d3b9-4c5b-aaae-dd15fe188316</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@@data-automation-id = 'TestJm']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Test')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d28acf79-2e4f-4024-97a4-23af056566c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@data-automation-id</name>
+      <type>Main</type>
+      <value>TestJm</value>
+      <webElementGuid>6da4f0d2-6c51-4fe2-bee6-ecc7a05f5952</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

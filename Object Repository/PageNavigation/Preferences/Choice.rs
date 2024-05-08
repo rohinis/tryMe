@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Choice</name>
+   <tag></tag>
+   <elementGuidId>3e1534ea-cdee-41a4-afbb-68d0fb39dda3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(text() = 'Diagnosis' or . = 'Diagnosis')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>48d5fb0d-a570-4ac1-ac9a-9e7f254a998a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Diagnosis</value>
+      <webElementGuid>3daee1bf-f1c8-4de3-844c-c33a9afaaba5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

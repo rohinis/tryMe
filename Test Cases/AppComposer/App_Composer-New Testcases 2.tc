@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>App_Composer-New Testcases 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39490c2b-87ba-4313-ac2e-0e83dfe56514</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a44d3644-e96d-40ce-966c-7da1faa3e5e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec53ea0c-a406-422a-b3d9-597584c986e3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>11089bfb-7a32-433d-9daa-7adeda0b2e30</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f49c221-34ff-44d1-afc9-d4c10e06fc1d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18e1bc2d-7734-4154-9cf9-022443eb671e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Add user'</defaultValue>
+      <description></description>
+      <id>a44d3644-e96d-40ce-966c-7da1faa3e5e2</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rename'</defaultValue>
+      <description></description>
+      <id>ec53ea0c-a406-422a-b3d9-597584c986e3</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rename'</defaultValue>
+      <description></description>
+      <id>11089bfb-7a32-433d-9daa-7adeda0b2e30</id>
+      <masked>false</masked>
+      <name>app</name>
+   </variable>
+   <variable>
+      <defaultValue>'sh Running.sh'</defaultValue>
+      <description></description>
+      <id>8f49c221-34ff-44d1-afc9-d4c10e06fc1d</id>
+      <masked>false</masked>
+      <name>exec</name>
+   </variable>
+   <variable>
+      <defaultValue>'.sh'</defaultValue>
+      <description></description>
+      <id>18e1bc2d-7734-4154-9cf9-022443eb671e</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+</TestCaseEntity>

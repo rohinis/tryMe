@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pre-Req-Script-For-JobMonitoring-Radioss</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf0b54f1-6f88-4dd0-ad08-8363365c414e</testCaseGuid>
+   <variable>
+      <defaultValue>'RADIOSS-SMP'</defaultValue>
+      <description></description>
+      <id>555f6179-797c-40ee-9175-3024701ef098</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'FileOps.sh'</defaultValue>
+      <description></description>
+      <id>bb8904a3-0f9b-4181-9c73-a26e4b18336d</id>
+      <masked>false</masked>
+      <name>InputFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>caa99b31-93ad-4161-8c83-6a54f2f4def1</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>cdef70d1-7ce9-4118-b69a-e5b153efcb8c</id>
+      <masked>false</masked>
+      <name>Version</name>
+   </variable>
+   <variable>
+      <defaultValue>'Job Script'</defaultValue>
+      <description></description>
+      <id>c00d92e3-71df-4533-8fbc-f68325edd490</id>
+      <masked>false</masked>
+      <name>FileArg</name>
+   </variable>
+   <variable>
+      <defaultValue>'na'</defaultValue>
+      <description></description>
+      <id>52f77332-477a-45e2-bbf6-d5b4f5710123</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

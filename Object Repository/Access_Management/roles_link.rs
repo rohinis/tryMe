@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>roles_link</name>
+   <tag></tag>
+   <elementGuidId>925d903d-092e-4783-8166-e64b349362f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id = 'user_roles_Roles_tab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cc21f1e6-efab-4ad7-bfa4-06599bea3fa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>user_roles_Roles_tab</value>
+      <webElementGuid>314e79e9-d355-422d-b211-c8b1c78776a0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

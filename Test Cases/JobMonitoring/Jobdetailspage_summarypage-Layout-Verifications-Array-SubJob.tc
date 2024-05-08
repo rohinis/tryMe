@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Jobdetailspage_summarypage-Layout-Verifications-Array-SubJob</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f939836d-3238-4f13-ae38-2fc0ae6cbcce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73543c4d-1c32-4c61-9e46-6ba1255e21e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c94d0174-4ff6-43e0-a921-f1f14b0a4666</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e9f4d38-a987-4c6f-8a75-d657e9e69518</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>73543c4d-1c32-4c61-9e46-6ba1255e21e6</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Input'</defaultValue>
+      <description></description>
+      <id>c94d0174-4ff6-43e0-a921-f1f14b0a4666</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Input'</defaultValue>
+      <description></description>
+      <id>5e9f4d38-a987-4c6f-8a75-d657e9e69518</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

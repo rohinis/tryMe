@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>breadCrumbLabel</name>
+   <tag></tag>
+   <elementGuidId>b34549a1-d4ee-499f-a807-dc12cfcf69bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(@class, 'breadcrumb_non_clickable_item') and @data-automation-id = 'ToDelete_LV.txt']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c44815c6-1b28-4312-a44d-3d1f6300ac87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb_non_clickable_item</value>
+      <webElementGuid>39ba9af1-de7d-48f8-9780-5de1452c1655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>ToDelete_LV.txt</value>
+      <webElementGuid>5de8540c-e55d-4407-82b4-5dfc726d71f4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

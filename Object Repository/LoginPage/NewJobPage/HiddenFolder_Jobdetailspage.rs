@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HiddenFolder_Jobdetailspage</name>
+   <tag></tag>
+   <elementGuidId>6c61cb5f-e7c1-4776-874b-1bc4a4cd52c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@title = 'ForHidden']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5bc8f235-4673-4df2-8ad6-05f593214b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>ForHidden</value>
+      <webElementGuid>b8c7fe61-f59e-4780-acda-04c823dfe4d5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

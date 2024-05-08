@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_NewFileFolder</name>
+   <tag></tag>
+   <elementGuidId>0dda8675-2f72-4281-944e-615cc505df93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'new_drop_down_btn']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='new_drop_down_btn']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19262833-9385-4e8c-b63f-f0083c38493d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>new_drop_down_btn</value>
+      <webElementGuid>5e6b9460-97d7-4e44-a54d-147abc8da4db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='new_drop_down_btn']/a</value>
+      <webElementGuid>f30c5826-5391-4f10-9ce6-e929916eb7c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'New')]</value>
+      <webElementGuid>7cddac90-8526-409c-9216-73d85d4b9a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload File'])[1]/following::a[1]</value>
+      <webElementGuid>ea0b982c-e92f-4684-8514-edf776c7c4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Files'])[2]/following::a[1]</value>
+      <webElementGuid>910f3e37-975b-4196-8fb7-d8eb9cba86f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Folder'])[1]/preceding::a[1]</value>
+      <webElementGuid>7079c9fe-270e-4752-9311-4b0c3310eda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File'])[1]/preceding::a[2]</value>
+      <webElementGuid>5a8fc1a3-138d-40b8-95fb-6269db5283a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/a</value>
+      <webElementGuid>8297dc42-3a17-4bbb-86ba-0dfb3d32a8ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

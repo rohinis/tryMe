@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HiddenFolder_FilesTab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bddd9d1-6b63-400c-85ef-771900c4ae8f</testCaseGuid>
+   <variable>
+      <defaultValue>'list'</defaultValue>
+      <description></description>
+      <id>0c241db4-ce62-4661-af4c-10a49e43f77e</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'.hiddenfolder'</defaultValue>
+      <description></description>
+      <id>88b5cbf2-c366-47a2-8b3e-74054777e282</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Compress'</defaultValue>
+      <description></description>
+      <id>aec25171-21c8-4dd6-8f74-7a6d19648302</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+</TestCaseEntity>

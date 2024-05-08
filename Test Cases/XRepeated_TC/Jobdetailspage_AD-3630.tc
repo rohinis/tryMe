@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Jobdetailspage_AD-3630</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa79e651-3466-40c9-a5a6-323a8045a4de</testCaseGuid>
+   <variable>
+      <defaultValue>'Running'</defaultValue>
+      <description></description>
+      <id>f8ca2f5e-63b4-4a76-b317-0223910e7e79</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Open'</defaultValue>
+      <description></description>
+      <id>53a0dfa0-bf86-4ef7-8c30-c1dbb1a7602e</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'duplicate file'</defaultValue>
+      <description></description>
+      <id>c24064c6-d2d0-41a9-b469-82fec6c53b09</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Output'</defaultValue>
+      <description></description>
+      <id>b3e3b492-fd2f-449d-b9fa-22e6c194e874</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

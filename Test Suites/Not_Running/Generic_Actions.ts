@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Generic_Actions</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2903e2dc-9dc8-4850-a4b0-2c745dd05639</testSuiteGuid>
+   <testCaseLink>
+      <guid>24f5911a-4e2a-4bc5-b7a9-835dce2bc52e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Generic_Actions/Generic_Actions</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ffc6a9a6-9456-43a6-8dc4-c86d7b6687f8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Regression/TestDataForGeneric_Actions</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ffc6a9a6-9456-43a6-8dc4-c86d7b6687f8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TestCaseName</value>
+         <variableId>e47b77ef-b2e7-4db0-8e59-d0281e610867</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ffc6a9a6-9456-43a6-8dc4-c86d7b6687f8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userChoice</value>
+         <variableId>af386d66-71c7-4cf3-9748-0abd139a3e50</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

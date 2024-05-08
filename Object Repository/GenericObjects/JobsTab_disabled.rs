@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>JobsTab_disabled</name>
+   <tag></tag>
+   <elementGuidId>6de93568-a98a-4dbc-8bf6-4cd4820d5fa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='app_jobs_tab']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id = 'app_jobs_tab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>eb9fea54-a613-420a-bc78-75df521c3763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_jobs_tab</value>
+      <webElementGuid>41835bcf-fd28-4ffe-a180-f887fd5c5707</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Btn_SendSignal</name>
+   <tag></tag>
+   <elementGuidId>1f937990-10c7-4d33-b7ac-2f30de3a8561</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id = 'action_SEND_SIGNAL']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5151f5c2-56a9-4f9c-844a-bba0af40d97e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>action_SEND_SIGNAL</value>
+      <webElementGuid>ea458994-7aab-4dbb-822e-ca01412c7716</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

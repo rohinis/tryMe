@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FileOperations-ListTile (1)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54f53022-50a8-406f-af2e-e83fd7af881a</testCaseGuid>
+   <variable>
+      <defaultValue>'ToRename_TV.txt  tile view '</defaultValue>
+      <description></description>
+      <id>052ecf0f-f884-4041-8763-407bd762c736</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ToRename_TV.txt'</defaultValue>
+      <description></description>
+      <id>9b7cd4e2-b0e1-4072-8569-8de8ba40dd24</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rename'</defaultValue>
+      <description></description>
+      <id>0ef79fc2-2e33-4ad8-8215-a36c422ce2a3</id>
+      <masked>false</masked>
+      <name>TestOperation</name>
+   </variable>
+</TestCaseEntity>

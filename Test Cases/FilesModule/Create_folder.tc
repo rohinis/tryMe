@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_folder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16cffb25-f9c5-4765-a975-9d48c4838da7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee230ecc-69f2-474e-8c4d-980a4a4c552f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45b0d864-a6c0-4925-b0ec-5b44fd7a59e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b9820b2-a287-4105-9538-86eeadc32e38</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'newTest'</defaultValue>
+      <description></description>
+      <id>ee230ecc-69f2-474e-8c4d-980a4a4c552f</id>
+      <masked>false</masked>
+      <name>FolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>45b0d864-a6c0-4925-b0ec-5b44fd7a59e2</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Positive'</defaultValue>
+      <description></description>
+      <id>1b9820b2-a287-4105-9538-86eeadc32e38</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

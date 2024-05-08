@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RunningFolder_ProcessWithRadioss</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de36f0cd-116b-48df-bcdb-30fb31f1f33c</testCaseGuid>
+   <variable>
+      <defaultValue>'Running'</defaultValue>
+      <description></description>
+      <id>8f2709a9-afb6-421a-abe2-e498765c967f</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Terminate'</defaultValue>
+      <description></description>
+      <id>030fec87-6125-4881-b532-97b062487c3c</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Case to verify upload zip file in Runnin Folder'</defaultValue>
+      <description></description>
+      <id>d834b076-7ef2-4f08-9d73-8befcd9e050f</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'JobsModule.zip'</defaultValue>
+      <description></description>
+      <id>b9099839-687c-4cce-aef6-448129875bf0</id>
+      <masked>false</masked>
+      <name>ToUpload</name>
+   </variable>
+   <variable>
+      <defaultValue>'bar.fem'</defaultValue>
+      <description></description>
+      <id>fab423ec-21fe-4e1f-bcc3-8af616492287</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8959571d-09bb-43df-b285-57388b820b0b</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+</TestCaseEntity>

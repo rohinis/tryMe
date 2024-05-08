@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Default_Filters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5859bfb-2568-452a-9e85-2ad6d69edea3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9ba3808-8b00-4693-ac33-8940ba7d6c26</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Verify default filters behavior'</defaultValue>
+      <description></description>
+      <id>e9ba3808-8b00-4693-ac33-8940ba7d6c26</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+</TestCaseEntity>

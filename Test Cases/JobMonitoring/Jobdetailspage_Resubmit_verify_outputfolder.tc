@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Jobdetailspage_Resubmit_verify_outputfolder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c42a4385-5488-46f5-9b02-b35faea5b169</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fea7645b-1882-4f17-a131-af55741bcc69</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fea7645b-1882-4f17-a131-af55741bcc69</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+</TestCaseEntity>

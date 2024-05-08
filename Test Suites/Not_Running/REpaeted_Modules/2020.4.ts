@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>2020.4</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>71079bc1-c058-4819-8336-f41dbf8922cc</testSuiteGuid>
+   <testCaseLink>
+      <guid>b5b216bd-5e1d-44b9-b139-2b26aa50a419</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/JobMonitoring/Jobdetailspage_summarypage-Layout-Verifications</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>12e3c46d-55f3-401c-b2c0-111055cc29a9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Regression/TestData2020.4</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>12e3c46d-55f3-401c-b2c0-111055cc29a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jobState</value>
+         <variableId>f9ddff65-dbdd-43df-9732-32237ac18f55</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>12e3c46d-55f3-401c-b2c0-111055cc29a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TestCaseName</value>
+         <variableId>60839071-ac4c-4419-b918-d5dc0ab90412</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>12e3c46d-55f3-401c-b2c0-111055cc29a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userChoice</value>
+         <variableId>25cf6dfc-64f4-471a-9221-c1ddbf78b044</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

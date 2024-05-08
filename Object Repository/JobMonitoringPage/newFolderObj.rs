@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>newFolderObj</name>
+   <tag></tag>
+   <elementGuidId>efe86470-2d3d-4ff9-a767-179770007e95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@title = 'MultipleFolderIconsJS']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a586666b-67ef-4f96-95ed-35351b4f67e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>MultipleFolderIconsJS</value>
+      <webElementGuid>4ec39b3c-9f5d-4888-afad-cb5ec4e538b4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

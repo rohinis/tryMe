@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon_EditFilePath</name>
+   <tag></tag>
+   <elementGuidId>63106609-f8df-4f20-a663-70190cef06fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='editable_icon']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id = 'go-to-folder-icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acf9290f-f257-4227-abfd-a8675139d711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>go-to-folder-icon</value>
+      <webElementGuid>1e42ae57-e8e0-4755-ade6-2ddb5b8a6777</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

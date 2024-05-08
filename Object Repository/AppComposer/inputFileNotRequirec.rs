@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputFileNotRequirec</name>
+   <tag></tag>
+   <elementGuidId>6f977f96-dc69-4f3d-ba8d-2db7a325f1f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[@class='tickmark'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[@class='tickmark'])[5]</value>
+      <webElementGuid>8b7abacb-5018-4e45-8b60-b87e8988cbc2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

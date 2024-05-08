@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AllFieldLabel</name>
+   <tag></tag>
+   <elementGuidId>29b6721a-44e8-4a8c-85a3-cc23cf140709</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='submission_reqall_req_field']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@id = 'submission_reqall_req_field']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submission_reqall_req_field</value>
+   </webElementProperties>
+</WebElementEntity>

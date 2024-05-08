@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FolderRowItem_TileView</name>
+   <tag></tag>
+   <elementGuidId>f17719c0-211a-4767-8fc7-26f17f8238b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-automation-id = 'MyFolder']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@title='ToDeleteMyFolder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>MyFolder</value>
+      <webElementGuid>eb7dc6b7-c9e4-4a0b-8963-0990d1dfe4ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fileviewer_filelist_table']/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/span/div/div</value>
+      <webElementGuid>9b8e13c9-2092-4620-8eed-9c4c0de278ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Size'])[1]/following::div[18]</value>
+      <webElementGuid>f89ab4b4-a7b7-4934-a656-3aa8145d10dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[1]/following::div[22]</value>
+      <webElementGuid>951dea5d-020e-40ba-841d-2eaac1d9e632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pbsadmin'])[3]/preceding::div[7]</value>
+      <webElementGuid>4c60362d-1400-4ee8-8404-1af1f9a2ab43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Myfile1'])[1]/preceding::div[25]</value>
+      <webElementGuid>86cc3c8a-05f6-46fd-976b-0873661e3919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/div/div</value>
+      <webElementGuid>f2cbc533-251f-479c-90a2-503a05d4df22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

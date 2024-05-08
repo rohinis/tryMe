@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>FileOperations</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>69c37363-b103-4cd6-bb9c-b23ddc6552b9</testSuiteGuid>
+   <testCaseLink>
+      <guid>64c95f42-ae5a-4e7d-98c5-35b340086f23</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/FilesModule/FileOperations</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>92fa3189-a1cb-4052-811f-673ac2cf8b96</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Regression/TestDataForFileOperations</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>92fa3189-a1cb-4052-811f-673ac2cf8b96</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TestCaseName</value>
+         <variableId>1d7255ee-2b97-45de-860a-6d4dff97674d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92fa3189-a1cb-4052-811f-673ac2cf8b96</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FileName</value>
+         <variableId>9db2c348-847f-41f0-800b-d8b322772339</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>92fa3189-a1cb-4052-811f-673ac2cf8b96</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Operation</value>
+         <variableId>7b950ced-8cb3-43ce-a472-81090d4db7f5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

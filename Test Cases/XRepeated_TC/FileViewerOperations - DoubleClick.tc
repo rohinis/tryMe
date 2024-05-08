@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FileViewerOperations - DoubleClick</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d572a8be-6af1-4010-9710-459f4661b4b3</testCaseGuid>
+   <variable>
+      <defaultValue>'ForFileViewer.txt'</defaultValue>
+      <description></description>
+      <id>c844dc4e-3e34-41cd-90d8-618ca926e74b</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'VD'</defaultValue>
+      <description></description>
+      <id>21ef2d4e-945f-458f-a400-c8c60c014f44</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Download'</defaultValue>
+      <description></description>
+      <id>83943d6f-538b-46d7-bf1e-03311d71e13e</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+</TestCaseEntity>

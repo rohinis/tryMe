@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JobActions_ForJobStates_Array_FileUpload_rightclick</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d0a03ba-7f5e-4fed-8c87-b2d3bc89fb79</testCaseGuid>
+   <variable>
+      <defaultValue>'Running'</defaultValue>
+      <description></description>
+      <id>f6ab7735-252c-4715-8c85-c66ff49ec1c3</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'View Subjobs'</defaultValue>
+      <description></description>
+      <id>1978f035-323f-449f-84db-6c978eb0faf4</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'subjobs matching wala'</defaultValue>
+      <description></description>
+      <id>012ee671-2a7a-40dd-ae24-4e15fd3bd274</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'rohini'</defaultValue>
+      <description></description>
+      <id>d2f69006-bec3-4d89-bf2f-b675c92f6ac8</id>
+      <masked>false</masked>
+      <name>AllJobsUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e1dc1c3-8f05-4a1d-bc69-05056db48af9</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

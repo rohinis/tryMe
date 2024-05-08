@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateProfile-tooltip</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfb57c1b-978b-4927-ada6-746c8854331c</testCaseGuid>
+   <variable>
+      <defaultValue>'one'</defaultValue>
+      <description></description>
+      <id>13ee31ae-d391-473a-832b-ed83f71431e3</id>
+      <masked>false</masked>
+      <name>proName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>7fcea14d-55c4-4670-b8ae-c013843c72ab</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tooltip'</defaultValue>
+      <description></description>
+      <id>bbcdfc30-dba1-44a3-9b50-0548ae806626</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'bar.fem'</defaultValue>
+      <description></description>
+      <id>7ce56a6c-90b3-49b3-b96c-a4d0dc0eb631</id>
+      <masked>false</masked>
+      <name>InputFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'bar.fem'</defaultValue>
+      <description></description>
+      <id>5ffe71c6-026b-4304-bf08-1fb94ccc0937</id>
+      <masked>false</masked>
+      <name>RemoteFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'Input File'</defaultValue>
+      <description></description>
+      <id>2c881199-3e12-4165-8789-16c73313365c</id>
+      <masked>false</masked>
+      <name>FileArg</name>
+   </variable>
+   <variable>
+      <defaultValue>'Remote'</defaultValue>
+      <description></description>
+      <id>a8d2d02c-79e5-48ac-b92a-14f8e23557f9</id>
+      <masked>false</masked>
+      <name>ProfileType</name>
+   </variable>
+</TestCaseEntity>

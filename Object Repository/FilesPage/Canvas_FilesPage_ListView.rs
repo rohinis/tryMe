@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Canvas_FilesPage_ListView</name>
+   <tag></tag>
+   <elementGuidId>8e1e1c0e-ddac-4069-9338-1a7fa0d576de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'fileviewer_filelist_table']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>653eda59-42c6-4ae9-bdbf-e9e801912793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fileviewer_filelist_table</value>
+      <webElementGuid>22126053-676c-403d-be11-9a7bd5a0c412</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

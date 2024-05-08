@@ -1,0 +1,4 @@
+Module=AppComposer
+csvfile=/home/KRE/AccessWeb/Reports/20220915_112146/001Console/AppComposer/20220915_112147//home/KRE/AccessWeb/Reports/20220915_112146/001Console/AppComposer/20220915_112147.csv
+browser=FireFox
+reportName=AppComposer_FireFox_15092022_112153.html

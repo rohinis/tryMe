@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pre-Req-GenericActions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2123d30c-64be-4fc6-8754-e632eecd5979</testCaseGuid>
+   <variable>
+      <defaultValue>'Files'</defaultValue>
+      <description></description>
+      <id>05d426bf-c5e1-4fda-b00f-022bbf0e193f</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>'pre req generic actions'</defaultValue>
+      <description></description>
+      <id>17e8bb60-f65f-41c8-aa10-bfbe20b0d480</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+</TestCaseEntity>

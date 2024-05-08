@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pagination_element2</name>
+   <tag></tag>
+   <elementGuidId>c75e5f53-af58-491e-b98b-c54f76873d36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(@class, 'unity_left_chevron')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b11663cb-222b-49c8-8aad-2766109292d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unity_left_chevron</value>
+      <webElementGuid>78a6ee9c-eeac-493b-a01a-6bab03974e7e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

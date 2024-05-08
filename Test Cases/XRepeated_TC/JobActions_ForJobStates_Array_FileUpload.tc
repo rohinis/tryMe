@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JobActions_ForJobStates_Array_FileUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8fe3f38-b4e8-452f-90fd-0c25fe170d45</testCaseGuid>
+   <variable>
+      <defaultValue>'Running'</defaultValue>
+      <description></description>
+      <id>f81f1b08-9316-4ff8-a642-0ed83a328ff8</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'View Subjobs'</defaultValue>
+      <description></description>
+      <id>0606c944-a84a-4dc1-ac6d-fb1c129096fd</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'subjobs matching wala'</defaultValue>
+      <description></description>
+      <id>ef3c4274-66ea-420d-88fe-f8ccdf89c6fc</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'rohini'</defaultValue>
+      <description></description>
+      <id>6989d174-9d73-49f5-8e73-ef716ab2528b</id>
+      <masked>false</masked>
+      <name>AllJobsUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1c9a4e7-ea33-4c0e-a2c0-2c2a23ab93f6</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>'JobsModule.zip'</defaultValue>
+      <description></description>
+      <id>4fd44094-88b4-4134-a0dd-cc92c2f25112</id>
+      <masked>false</masked>
+      <name>ToUpload</name>
+   </variable>
+</TestCaseEntity>

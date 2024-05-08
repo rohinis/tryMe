@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ContextMenu_AD-3107</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb515fbb-0040-40c1-8f1f-f30e53e1935e</testCaseGuid>
+   <variable>
+      <defaultValue>'tilesFile.txt'</defaultValue>
+      <description></description>
+      <id>e7100c0f-0473-4ef8-8665-6ab4adb5deaf</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>725e0c26-d28f-4914-9241-43b1212e0bf6</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+</TestCaseEntity>

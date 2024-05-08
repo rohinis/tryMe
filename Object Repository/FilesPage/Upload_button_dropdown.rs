@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload_button_dropdown</name>
+   <tag></tag>
+   <elementGuidId>d9d3942d-1d33-430b-a9dd-f61486d222f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id = 'upload_folder_button_parent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f01a42c1-13eb-47fb-b53b-02b9fd92981a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>upload_folder_button_parent</value>
+      <webElementGuid>3fc3583b-cd02-48cd-9bc9-35dd0959b315</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

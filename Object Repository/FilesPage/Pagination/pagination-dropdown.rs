@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pagination-dropdown</name>
+   <tag></tag>
+   <elementGuidId>a32b447b-92c9-4e1d-8f63-ed0558d4ca44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'pagination-dropdown-files_input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f45f4c5-59f4-4330-9813-8a2a09f21556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pagination-dropdown-files_input</value>
+      <webElementGuid>14f9704d-b14e-4306-84d1-8f43b844cd53</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

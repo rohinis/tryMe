@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pagination-FilesTab - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed6f0d8b-d255-42a2-be7d-b4a811545b45</testCaseGuid>
+   <variable>
+      <defaultValue>'ToDownload.txt'</defaultValue>
+      <description></description>
+      <id>e42d6383-4446-4df2-a51e-7982c5129aed</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Page Navigation'</defaultValue>
+      <description></description>
+      <id>f18803ef-d18f-4223-8a99-2299b067dc70</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Copy'</defaultValue>
+      <description></description>
+      <id>342f54f2-159c-4f95-ac3c-d0a0f4559182</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+</TestCaseEntity>

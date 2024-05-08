@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BreadCrumb_path</name>
+   <tag></tag>
+   <elementGuidId>4c5308cc-a446-4d71-ac82-baebc4c7846f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'breadcrumb_wrapper_child']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d120ab0-b1ba-41c6-8bcc-b3d037011839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb_wrapper_child</value>
+      <webElementGuid>1513fdc4-31cb-4bde-b5f9-8ad5b4ac513e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

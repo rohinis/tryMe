@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Jobdetailspage_context menu - SummaryPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6da2a47-3483-474d-8010-a741128dda57</testCaseGuid>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>360c70a2-6de5-4e1e-99a7-673a1bf96ecc</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Delete'</defaultValue>
+      <description></description>
+      <id>0323c86e-0606-4e1c-8845-3827cfdef433</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'Detele check'</defaultValue>
+      <description></description>
+      <id>bce33835-bba6-4bc4-be4a-7deecf5f76c8</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Output'</defaultValue>
+      <description></description>
+      <id>33238337-ec68-4bbd-87ce-ab4f3843166c</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

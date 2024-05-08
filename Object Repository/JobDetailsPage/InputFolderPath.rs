@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InputFolderPath</name>
+   <tag></tag>
+   <elementGuidId>3df574cf-d738-4eb1-bf48-610d2a0a8cd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(contains(text(), '/stage/pbsworks/ForJM/R1/Ops') or contains(., '/stage/pbsworks/ForJM/R1/Ops'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>45f20035-59dc-47aa-b859-f914879c26eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>/stage/pbsworks/ForJM/R1/Ops</value>
+      <webElementGuid>62e976c7-df1e-46d9-851b-e3865f170f5d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

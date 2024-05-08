@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NewDropdown</name>
+   <tag></tag>
+   <elementGuidId>40d67864-9ddb-487d-811e-82f58bdce761</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'new_drop_down_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af0b0f11-ad7d-4a1a-8833-d4cb5df7ab22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>new_drop_down_btn</value>
+      <webElementGuid>7aea05bd-0a54-4632-a2fe-600c4a78246c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

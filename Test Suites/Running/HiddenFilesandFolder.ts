@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>HiddenFilesandFolder</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>7f856de4-29ae-406d-8c3a-5476e432f1a9</testSuiteGuid>
+   <testCaseLink>
+      <guid>293f4626-61b0-45e6-861d-217a4bfd9a8b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HiddenFilesandFolders/Hiddenfiles</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fc14372e-0202-46f4-93b4-748231529938</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>11-20</value>
+         </iterationEntity>
+         <testDataId>Data Files/Regression/TestDataHiddenFiles</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fc14372e-0202-46f4-93b4-748231529938</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userChoice</value>
+         <variableId>688cf74e-a7e0-4ba0-9ce5-56fc1685fb8f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fc14372e-0202-46f4-93b4-748231529938</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>user</value>
+         <variableId>b80445fb-e764-464d-a9bd-11f3f622d34f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fc14372e-0202-46f4-93b4-748231529938</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TestCaseName</value>
+         <variableId>496b7db2-10fa-4722-9edc-414bf403610c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fc14372e-0202-46f4-93b4-748231529938</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>prefValue</value>
+         <variableId>7a4fcda5-3d53-4ed7-ab2d-34e558562758</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

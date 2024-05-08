@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label_FolderEmpty</name>
+   <tag></tag>
+   <elementGuidId>2c6c209a-b995-480d-810e-5ea5cecb07e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='emptymessage-img']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'dragNDrop']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a5df626f-88d5-4dca-8112-9e3e1326c00c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dragNDrop</value>
+      <webElementGuid>f11b6db9-6a8f-42af-a7b0-4d34e0146e64</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

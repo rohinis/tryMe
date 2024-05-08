@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>details_tab</name>
+   <tag></tag>
+   <elementGuidId>fd8f7dc4-27f5-4510-8fcc-6bbd76b96833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id = 'app_details_tab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ef454f31-fb5e-4e48-9a30-3a87dbf259e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_details_tab</value>
+      <webElementGuid>fe5e8d67-b9a6-4449-889b-f9ddb0b5fd12</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

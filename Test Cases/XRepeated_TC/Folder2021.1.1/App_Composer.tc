@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>App_Composer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0adcc03-41d6-4697-8243-0085d1c435aa</testCaseGuid>
+   <variable>
+      <defaultValue>'Add user'</defaultValue>
+      <description></description>
+      <id>4fd17f9e-9d4f-412f-aec6-a8a9260936e2</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Disable Help'</defaultValue>
+      <description></description>
+      <id>28ea9b68-260f-4115-b7f9-9e3f7ec10ff0</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

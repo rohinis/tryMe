@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JobSubmission -Folder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6281328-694b-43ba-b437-7f04ef181279</testCaseGuid>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>be65af4f-e37a-4c85-bc18-92855687e8eb</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'SCbar.fem'</defaultValue>
+      <description></description>
+      <id>d823dba9-d740-4cce-bbab-cd5636910bd5</id>
+      <masked>false</masked>
+      <name>InputFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'JS ShortCut'</defaultValue>
+      <description></description>
+      <id>1e5ae934-31a5-4511-b8d3-827a58d19cf1</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Input File'</defaultValue>
+      <description></description>
+      <id>70431c53-9e6f-42df-8b46-66572ac26240</id>
+      <masked>false</masked>
+      <name>FileArg</name>
+   </variable>
+   <variable>
+      <defaultValue>'Array'</defaultValue>
+      <description></description>
+      <id>b361908b-c0f6-428a-bc2f-fc26bae3c806</id>
+      <masked>false</masked>
+      <name>ExecMode</name>
+   </variable>
+   <variable>
+      <defaultValue>'NCPU'</defaultValue>
+      <description></description>
+      <id>ec5f6040-c19e-4618-83b4-33a8b79821db</id>
+      <masked>false</masked>
+      <name>ToChange</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>a9be7238-aced-4882-b73e-e1c7918539ca</id>
+      <masked>false</masked>
+      <name>ChangeValue</name>
+   </variable>
+</TestCaseEntity>

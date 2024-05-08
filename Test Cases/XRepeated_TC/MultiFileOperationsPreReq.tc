@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultiFileOperationsPreReq</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ca33dc2-536a-4560-8218-83952875d440</testCaseGuid>
+   <variable>
+      <defaultValue>'ToOpen_LV.log'</defaultValue>
+      <description></description>
+      <id>99e9ee53-b20f-4ab4-afd2-cdaef7f9bb29</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>71410cbf-286c-4a8b-a887-d2d8b3cfa458</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Copy'</defaultValue>
+      <description></description>
+      <id>0d2ac397-e8d2-4608-8e73-86c804bd5a67</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>acce71a7-d05e-4f7d-8168-801f569bb633</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'RunJob.sh'</defaultValue>
+      <description></description>
+      <id>75c6bfcc-eed0-42c8-9ab4-cd9c59c2a589</id>
+      <masked>false</masked>
+      <name>InputFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'Input File'</defaultValue>
+      <description></description>
+      <id>cf9bc9eb-35e4-4b23-9d37-c94424183a8f</id>
+      <masked>false</masked>
+      <name>FileArg</name>
+   </variable>
+   <variable>
+      <defaultValue>'NCPU'</defaultValue>
+      <description></description>
+      <id>2dabba94-0c1a-4cab-8e46-4715e467f723</id>
+      <masked>false</masked>
+      <name>ToChange</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>7072fcb2-e90f-4f73-bd97-171ca9d1ce74</id>
+      <masked>false</masked>
+      <name>ChangeValue</name>
+   </variable>
+</TestCaseEntity>

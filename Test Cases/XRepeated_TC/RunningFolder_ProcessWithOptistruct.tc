@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RunningFolder_ProcessWithOptistruct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>370e9ef9-9b0c-40ed-8522-a8b42fc2efe4</testCaseGuid>
+   <variable>
+      <defaultValue>'Running'</defaultValue>
+      <description></description>
+      <id>c4ea1252-6475-4dec-8450-a68298e18f40</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Terminate'</defaultValue>
+      <description></description>
+      <id>5cbc3323-ee05-4f5c-bfb2-1cde271780b2</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Case to verify upload zip file in Runnin Folder'</defaultValue>
+      <description></description>
+      <id>d12f961f-1ee4-4593-b971-ff6994b32192</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'JobsModule.zip'</defaultValue>
+      <description></description>
+      <id>d89c604a-f97f-4a5c-b45c-95d4a46bb15d</id>
+      <masked>false</masked>
+      <name>ToUpload</name>
+   </variable>
+   <variable>
+      <defaultValue>'bar.fem'</defaultValue>
+      <description></description>
+      <id>7736ce7d-49d2-493e-badc-62c30fafdac7</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>542c50c6-3a02-423e-bffe-7ca5e25c176e</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+</TestCaseEntity>

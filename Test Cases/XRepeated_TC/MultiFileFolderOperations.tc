@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultiFileFolderOperations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12a11667-37f7-4455-967e-9e7280c49d43</testCaseGuid>
+   <variable>
+      <defaultValue>'ToOpen_LV.log'</defaultValue>
+      <description></description>
+      <id>018fe59d-937a-4862-bf66-39325095270d</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>759ce1a6-a924-4711-8b41-78ab494ebbfd</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Download'</defaultValue>
+      <description></description>
+      <id>83c48f7c-4580-47b7-822b-9fcfe8e3beb4</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>ec8568be-e776-452d-ac48-3e7431828c09</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>49ea1a38-4362-4e48-a75a-529695e68519</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Output'</defaultValue>
+      <description></description>
+      <id>0f58aa72-034c-4b1c-a259-f110f5235c44</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

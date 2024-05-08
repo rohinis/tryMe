@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>close_option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50d25146-1696-42b2-bd40-8a98bb9c08bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d1b562a-b163-4612-a5a3-e058ab7122f2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8d0f059-64e9-4de5-894d-f852ab92a43f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>328ac26d-45f9-4740-936a-2373afba0889</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d1b562a-b163-4612-a5a3-e058ab7122f2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e8d0f059-64e9-4de5-894d-f852ab92a43f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Close Option Validation '</defaultValue>
+      <description></description>
+      <id>328ac26d-45f9-4740-936a-2373afba0889</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+</TestCaseEntity>

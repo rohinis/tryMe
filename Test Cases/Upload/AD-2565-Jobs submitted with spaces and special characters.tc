@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AD-2565-Jobs submitted with spaces and special characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e21e3b9-bc47-479c-95e9-d5c50a4ef114</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>706a549e-e6d0-4425-8744-4387c996f17a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2537b7f6-cee4-4b29-b9ee-f28aa4811c95</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25559849-1832-43e1-b0fa-886b2c070b58</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2cb6f2e4-7b01-45ba-82e6-5de5c5a11ffe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2764fb0-ccd3-426c-bcbc-5a1ef9c44673</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jobs submitted with files having spaces and special characters should run successfully(Ex: spaces and sleep (2).sh)'</defaultValue>
+      <description></description>
+      <id>706a549e-e6d0-4425-8744-4387c996f17a</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>2537b7f6-cee4-4b29-b9ee-f28aa4811c95</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'spaces and sleep (2).sh'</defaultValue>
+      <description></description>
+      <id>25559849-1832-43e1-b0fa-886b2c070b58</id>
+      <masked>false</masked>
+      <name>InputFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'Job Script'</defaultValue>
+      <description></description>
+      <id>2cb6f2e4-7b01-45ba-82e6-5de5c5a11ffe</id>
+      <masked>false</masked>
+      <name>FileArg</name>
+   </variable>
+   <variable>
+      <defaultValue>'Local'</defaultValue>
+      <description></description>
+      <id>d2764fb0-ccd3-426c-bcbc-5a1ef9c44673</id>
+      <masked>false</masked>
+      <name>ExecMode</name>
+   </variable>
+</TestCaseEntity>

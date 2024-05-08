@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hpcluster_temp</name>
+   <tag></tag>
+   <elementGuidId>ac58ca45-2bd8-4d5f-90cf-271c61406a78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'server-header-section']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0a860fe-28b7-47da-985c-0d1d8f22f551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app-composer-templates</value>
+      <webElementGuid>f801b44e-3411-4f5d-a623-115d31312456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>server-header-section</value>
+      <webElementGuid>2f1dce79-c5ac-4653-9991-7e0d51e54d58</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

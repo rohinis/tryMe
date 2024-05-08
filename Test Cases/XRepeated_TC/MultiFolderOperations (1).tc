@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultiFolderOperations (1)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17b51c77-446c-4d6d-a35e-b34853326066</testCaseGuid>
+   <variable>
+      <defaultValue>'ToOpen_LV.log'</defaultValue>
+      <description></description>
+      <id>86d51c76-ecfd-4ba2-abd3-68fb9c11e549</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>5bd763fe-ffa3-449d-87ab-60d9e59e7d9a</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Delete'</defaultValue>
+      <description></description>
+      <id>b3e32d94-fc27-4fac-bac5-8af8fbc40736</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>f957ffea-4164-4382-a3b1-b90a9fa58ff8</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>3beb3812-cbfc-4316-881f-b4b881da1829</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Output'</defaultValue>
+      <description></description>
+      <id>d8543efa-f4e3-440b-9f80-4c3620bee8b5</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

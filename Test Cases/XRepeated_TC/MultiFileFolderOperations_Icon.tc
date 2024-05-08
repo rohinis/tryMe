@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultiFileFolderOperations_Icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cea8e8d-5348-4bba-94d8-7abd9b33b7c0</testCaseGuid>
+   <variable>
+      <defaultValue>'ToOpen_LV.log'</defaultValue>
+      <description></description>
+      <id>45af457f-3238-41c9-8d82-493216a34c48</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>b43a9bc2-25c9-4af4-ab54-d36003c3a7b0</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Resubmit'</defaultValue>
+      <description></description>
+      <id>82b9d393-c99d-4775-92a5-382915723996</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>6a02aa4f-d2f3-4118-947a-274ed473d56e</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>4a4e2ed2-7259-4ff6-8caa-97e699d68e0b</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Output'</defaultValue>
+      <description></description>
+      <id>8840336a-526f-479b-b75d-bd8de0b76a80</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Jobdetailspage_summarypage_switchfile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93756e55-dab5-4921-9952-1f2edd6008fe</testCaseGuid>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>c74a7975-f4bc-4ba6-acd3-339545b3efab</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'New File'</defaultValue>
+      <description></description>
+      <id>bf1ae700-9d61-4061-84f4-f1d488a83d5b</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'duplicate file'</defaultValue>
+      <description></description>
+      <id>548d0df5-a1dd-4ac2-83c7-5786b6dfcdd8</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Output'</defaultValue>
+      <description></description>
+      <id>062f8afa-5df7-4ec6-af49-77bd168b56d2</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

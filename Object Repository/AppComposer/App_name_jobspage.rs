@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>App_name_jobspage</name>
+   <tag></tag>
+   <elementGuidId>abb07801-73d5-4aa3-be2d-3a6ffe074fc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@data-automation-id = 'Test123File_1']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@title='Test123File_1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d5d5090-1306-4c71-95d2-65b33c14f88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>Test123File_1</value>
+      <webElementGuid>fca047ba-c54e-4ff7-9102-4da9ecc988c0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

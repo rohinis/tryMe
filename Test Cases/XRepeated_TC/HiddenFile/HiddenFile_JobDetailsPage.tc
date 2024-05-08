@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HiddenFile_JobDetailsPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2642e13-3682-498c-b0b4-cf9cfb08fc3e</testCaseGuid>
+   <variable>
+      <defaultValue>'Persistence On'</defaultValue>
+      <description></description>
+      <id>6acf89d6-566d-45a6-943d-adf3a706bd79</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Output'</defaultValue>
+      <description></description>
+      <id>c5192328-9e17-4097-825c-6bac39ca538d</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>'Files'</defaultValue>
+      <description></description>
+      <id>299e5a60-a416-4812-b309-b4a5cee7a3c0</id>
+      <masked>false</masked>
+      <name>preference</name>
+   </variable>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>d5296755-60cd-49bc-8b0e-dba04bfe43ad</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+</TestCaseEntity>

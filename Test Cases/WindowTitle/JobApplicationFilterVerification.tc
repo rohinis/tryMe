@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JobApplicationFilterVerification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a5db5f9-71f2-4215-9c89-5d7a6b33f04b</testCaseGuid>
+   <variable>
+      <defaultValue>'Running'</defaultValue>
+      <description></description>
+      <id>0b292f73-6e4e-44a1-afc8-5515f4bae6f0</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Terminate'</defaultValue>
+      <description></description>
+      <id>89e76b7e-4494-4c6e-ba5e-4dc4c0ebf02e</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Case to App defs present in the application'</defaultValue>
+      <description></description>
+      <id>af74ead0-ad1a-48e1-9136-865ab3d1a631</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'JobsModule.zip'</defaultValue>
+      <description></description>
+      <id>2f81dc48-02c2-4203-b874-992fce0dd013</id>
+      <masked>false</masked>
+      <name>ToUpload</name>
+   </variable>
+</TestCaseEntity>

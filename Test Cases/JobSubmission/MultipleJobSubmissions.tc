@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MultipleJobSubmissions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23235b10-d1d2-47c1-8ea2-16f6338443ae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53d74077-eef0-44bf-a79a-ebb3b3690ba9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d34d24f-5e83-48ff-881f-4d9620e2e4c1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc913d2d-7bc7-4ca8-a5ec-62e6669bdb3e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>53d74077-eef0-44bf-a79a-ebb3b3690ba9</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test to verify job submissions for multiple extensions.'</defaultValue>
+      <description></description>
+      <id>3d34d24f-5e83-48ff-881f-4d9620e2e4c1</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'na'</defaultValue>
+      <description></description>
+      <id>bc913d2d-7bc7-4ca8-a5ec-62e6669bdb3e</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

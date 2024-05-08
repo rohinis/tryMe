@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Single_arrow</name>
+   <tag></tag>
+   <elementGuidId>39ccd942-21c8-4be3-a57a-ffa3fa9ea90f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.unity_right_chevron</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='unity_right_chevron']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;body&quot;)/div[3]/div[@class=&quot;fade manage-params-dialog in modal&quot;]/div[@class=&quot;white-theme modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mp-outer-view&quot;]/div[@class=&quot;action-area&quot;]/div[@class=&quot;param-action-btn&quot;]/span[@class=&quot;unity_right_chevron&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unity_right_chevron</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[3]/div[@class=&quot;fade manage-params-dialog in modal&quot;]/div[@class=&quot;white-theme modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mp-outer-view&quot;]/div[@class=&quot;action-area&quot;]/div[@class=&quot;param-action-btn&quot;]/span[@class=&quot;unity_right_chevron&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='body']/div[3]/div[2]/div/div/div[2]/div/div[2]/div[2]/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/span</value>
+   </webElementXpaths>
+</WebElementEntity>

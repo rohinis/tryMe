@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JobSubmission-MultiFolderOperations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32de85a1-3b2e-4c2f-a9a3-6b2950971b8e</testCaseGuid>
+   <variable>
+      <defaultValue>'Delete'</defaultValue>
+      <description></description>
+      <id>1681b058-c657-444c-8cad-0d970834be69</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>'tile view'</defaultValue>
+      <description></description>
+      <id>23139c2d-e9df-4e81-b96f-5f3af9068652</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cut'</defaultValue>
+      <description></description>
+      <id>e00d4a66-1a1c-40c6-9137-87421eeca331</id>
+      <masked>false</masked>
+      <name>Operation</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>fabb4f0a-d62e-44af-8423-d464159dd98c</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+</TestCaseEntity>

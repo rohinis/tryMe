@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete_Btn</name>
+   <tag></tag>
+   <elementGuidId>fa5682a9-f8ee-480b-9498-2f03c466981c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='delete_menu_item']//span[@id='Delete']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='delete_menu_item']//span[@id='Delete']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='delete_menu_item']//span[@id='Delete']</value>
+      <webElementGuid>19c1fa7a-1ab8-4479-b6b5-5a495c54190c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Network_HPC</name>
+   <tag></tag>
+   <elementGuidId>430851ba-ea96-4e5a-a309-1697d5dc9346</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(contains(text(), 'blrvm') or contains(., 'blrvm'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13e93cbf-cb2c-4476-bd63-16a3ec804224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>blrvm</value>
+      <webElementGuid>e42fc499-a39a-46af-9099-c357c7ede340</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

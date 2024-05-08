@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MultiFiles</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1801a429-fdd7-49cf-a17c-29a1008a5434</testSuiteGuid>
+   <testCaseLink>
+      <guid>9a0832c1-eb07-4589-ac67-7c3562849903</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MultiFileFolder/MultiFolderOperations_WIP</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b1560952-444a-4030-9c67-485c227e428a</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1-22,24-27</value>
+         </iterationEntity>
+         <testDataId>Data Files/Regression/TestDataJSMultiFileFolderOps</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b1560952-444a-4030-9c67-485c227e428a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TestCaseName</value>
+         <variableId>5bd763fe-ffa3-449d-87ab-60d9e59e7d9a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1560952-444a-4030-9c67-485c227e428a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Operation</value>
+         <variableId>b3e32d94-fc27-4fac-bac5-8af8fbc40736</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1560952-444a-4030-9c67-485c227e428a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jobState</value>
+         <variableId>3beb3812-cbfc-4316-881f-b4b881da1829</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1560952-444a-4030-9c67-485c227e428a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userChoice</value>
+         <variableId>d8543efa-f4e3-440b-9f80-4c3620bee8b5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1560952-444a-4030-9c67-485c227e428a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Type</value>
+         <variableId>44c171f0-ef48-479f-909e-1efeff751738</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

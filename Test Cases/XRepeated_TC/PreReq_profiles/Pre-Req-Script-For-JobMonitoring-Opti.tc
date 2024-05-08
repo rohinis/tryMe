@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pre-Req-Script-For-JobMonitoring-Opti</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0c0a8f8-1451-4e3f-884a-895eaa14745e</testCaseGuid>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>3fe97dea-a79e-42ec-9cea-cebe4c5ea58e</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'FileOps.sh'</defaultValue>
+      <description></description>
+      <id>d36b8d9d-332a-4e74-b79f-b77058909f08</id>
+      <masked>false</masked>
+      <name>InputFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>58caa69f-dd28-45bc-bb33-e1e315e6f631</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>8cbb99d4-3a69-4d85-a28b-4fa7335d942a</id>
+      <masked>false</masked>
+      <name>Version</name>
+   </variable>
+   <variable>
+      <defaultValue>'Job Script'</defaultValue>
+      <description></description>
+      <id>6bd6c71d-d6eb-4172-aad2-43fcca7f13a8</id>
+      <masked>false</masked>
+      <name>FileArg</name>
+   </variable>
+   <variable>
+      <defaultValue>'na'</defaultValue>
+      <description></description>
+      <id>fc56f0f5-08bf-430d-b2d4-6f5fffc80362</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

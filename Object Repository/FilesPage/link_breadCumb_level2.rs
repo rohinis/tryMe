@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_breadCumb_level2</name>
+   <tag></tag>
+   <elementGuidId>ae8e3f3e-5c79-4e4c-81d1-34bf48eede29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@data-automation-id = 'UnZipOps']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>407c8401-3a86-43cb-83a5-57e1cc606400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>UnZipOps</value>
+      <webElementGuid>5f80de28-49ba-4665-8106-8ec3e47f6789</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

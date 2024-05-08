@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RowItem_CompressedFile_TileView</name>
+   <tag></tag>
+   <elementGuidId>4c1e87b5-425f-494e-85f8-b9fbfce0ad3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(contains(text(), 'ToCompress_TV_archive_') or contains(., 'ToCompress_TV_archive_'))]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(text(),'ToCompress_TV_archive_')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>240b4a69-338e-45fe-a6d2-fc60a48d6b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tile_dir_input</value>
+      <webElementGuid>170472f2-f22e-4281-8f68-af2de529190c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ToCompress_TV_archive_</value>
+      <webElementGuid>297ecfab-3430-4504-92b2-2ddc259b5d3a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

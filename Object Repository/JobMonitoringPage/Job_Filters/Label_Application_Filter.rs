@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Label_Application_Filter</name>
+   <tag></tag>
+   <elementGuidId>8efb3d7b-792d-4838-9b0c-89c4f95869f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//Label[@id = 'DynamicInComplete']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>Label</value>
+      <webElementGuid>4d936522-b69e-43b3-aa0f-e065a639ef3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DynamicInComplete</value>
+      <webElementGuid>1cb496f1-6627-4f0c-bcca-d5c8fdcefa1e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

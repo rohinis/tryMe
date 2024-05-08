@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UnzipOnUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffe12e97-beeb-45c9-b1ec-46fcc75e97e2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7b3a5f8-e7bd-4b89-9a5f-948e44f860e9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>555d4820-0788-4d6c-8962-ab94782f3455</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a831311e-cfe8-41e1-b858-cf3ecf79a713</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tile view - No'</defaultValue>
+      <description></description>
+      <id>c7b3a5f8-e7bd-4b89-9a5f-948e44f860e9</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>555d4820-0788-4d6c-8962-ab94782f3455</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a831311e-cfe8-41e1-b858-cf3ecf79a713</id>
+      <masked>false</masked>
+      <name>fileToUpload</name>
+   </variable>
+</TestCaseEntity>

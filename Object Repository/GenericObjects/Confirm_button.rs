@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Confirm_button</name>
+   <tag></tag>
+   <elementGuidId>dfe18b1d-db8e-4a54-ad0d-2a47651bbb2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='confirm_modal_ok_btn']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'confirm_modal_ok_btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>034b4c2d-73ba-4536-b075-9f7fc8cdd1d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>confirm_modal_ok_btn</value>
+      <webElementGuid>bf590a3f-ea5e-44b0-a97e-b535a7054c2f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

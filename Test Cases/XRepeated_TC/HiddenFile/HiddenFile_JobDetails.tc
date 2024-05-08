@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HiddenFile_JobDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>530f7b58-0887-4147-921c-6d00bc9346a6</testCaseGuid>
+   <variable>
+      <defaultValue>' pref value - false - normal user'</defaultValue>
+      <description></description>
+      <id>7f4cd00c-a86b-4fdc-bb5c-e38f39523000</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>c40b706c-f8ba-46ef-b66d-3d070425fe12</id>
+      <masked>false</masked>
+      <name>prefValue</name>
+   </variable>
+   <variable>
+      <defaultValue>'FilesTab'</defaultValue>
+      <description></description>
+      <id>c4326ebb-9c02-4e9a-aab0-c69b09c25426</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>'.hiddenFile'</defaultValue>
+      <description></description>
+      <id>07e97774-fcc7-4aa0-8d61-8172b3d8e585</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'.hiddenFolder'</defaultValue>
+      <description></description>
+      <id>02dd4064-3539-4c03-bebc-7f29e82f1f09</id>
+      <masked>false</masked>
+      <name>folderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'normal'</defaultValue>
+      <description></description>
+      <id>53e4a74a-4273-43bc-8fd1-518c765394fb</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+</TestCaseEntity>

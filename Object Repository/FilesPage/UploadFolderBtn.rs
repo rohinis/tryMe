@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UploadFolderBtn</name>
+   <tag></tag>
+   <elementGuidId>ccc2e1fb-e9ad-4d6c-80bb-e3db8de010e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'folder_upload_element_dirview']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b6426b80-1ccd-4c9f-99c2-d222600bdc8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>folder_upload_element_dirview</value>
+      <webElementGuid>b9a74666-672c-4b4f-8fbe-6190f8d24578</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

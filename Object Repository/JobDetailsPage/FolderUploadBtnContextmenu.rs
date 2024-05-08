@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FolderUploadBtnContextmenu</name>
+   <tag></tag>
+   <elementGuidId>14a8fb1d-577d-445f-bf57-97d430c99aa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'folder_upload_element_running_job_upload']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bbeb44cb-bb06-484b-9448-919ab606e868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>folder_upload_element_running_job_upload</value>
+      <webElementGuid>0e0bc8bf-94f3-4fe8-a2e4-2c99012b4606</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

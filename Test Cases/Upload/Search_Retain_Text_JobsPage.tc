@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search_Retain_Text_JobsPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>253a3272-eaad-42e8-bb5c-4644afddb1b9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9cc190f4-260d-43ee-8701-29a2b778d7ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d2ca777-bfa2-4f66-b733-50eb1066a582</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0758f93-aa88-40ae-af35-b14215b3554b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jobs page view verification - Search &amp; Retain search text'</defaultValue>
+      <description></description>
+      <id>9cc190f4-260d-43ee-8701-29a2b778d7ee</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Completed'</defaultValue>
+      <description></description>
+      <id>9d2ca777-bfa2-4f66-b733-50eb1066a582</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ops'</defaultValue>
+      <description></description>
+      <id>f0758f93-aa88-40ae-af35-b14215b3554b</id>
+      <masked>false</masked>
+      <name>jobname</name>
+   </variable>
+</TestCaseEntity>

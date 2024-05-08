@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FileOperationsWithIconsOps</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ae21d3-68a9-4a22-a0b1-f99a4c2c68e6</testCaseGuid>
+   <variable>
+      <defaultValue>'delete contextmenu'</defaultValue>
+      <description></description>
+      <id>3ef1c1ec-9de1-45af-b2e4-d296b716e46e</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ToCopy_LV.txt'</defaultValue>
+      <description></description>
+      <id>e53f6ea2-6bb6-448b-b722-3a6cf2bdb7d3</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Delete'</defaultValue>
+      <description></description>
+      <id>6d93af2c-85e9-445c-8776-7ce7a9785630</id>
+      <masked>false</masked>
+      <name>TestOperation</name>
+   </variable>
+</TestCaseEntity>

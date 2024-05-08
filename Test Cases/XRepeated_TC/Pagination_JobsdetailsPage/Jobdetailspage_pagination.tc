@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Jobdetailspage_pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9aee1346-ed91-488b-a99d-7c32e1c52c64</testCaseGuid>
+   <variable>
+      <defaultValue>'Running'</defaultValue>
+      <description></description>
+      <id>547f71a5-a60e-4410-a84a-59fd4f057905</id>
+      <masked>false</masked>
+      <name>jobState</name>
+   </variable>
+   <variable>
+      <defaultValue>'Open'</defaultValue>
+      <description></description>
+      <id>8a3e9207-c2e9-44e0-858d-ccd667242da8</id>
+      <masked>false</masked>
+      <name>jobAction</name>
+   </variable>
+   <variable>
+      <defaultValue>'file check'</defaultValue>
+      <description></description>
+      <id>7cff1dc3-3087-407f-82f4-24adab0b6bf3</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Running'</defaultValue>
+      <description></description>
+      <id>a25f3212-58ca-4ea2-bc14-35cc195895b6</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

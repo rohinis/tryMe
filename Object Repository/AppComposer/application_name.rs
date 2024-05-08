@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>application_name</name>
+   <tag></tag>
+   <elementGuidId>7f387ca5-6241-4863-8ffc-e4b3e6a2d13f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@title='Test123File_1']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-automation-id = 'TestSaved']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6467f401-fd71-4e2e-9e98-cacbd9d7da5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>TestSaved</value>
+      <webElementGuid>7e50029f-7d41-4a81-a19a-9eccaafa3ee6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

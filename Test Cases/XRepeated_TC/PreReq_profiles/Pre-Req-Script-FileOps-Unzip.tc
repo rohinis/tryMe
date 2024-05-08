@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pre-Req-Script-FileOps-Unzip</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac165f85-32b9-44e1-b835-92ad46735edd</testCaseGuid>
+   <variable>
+      <defaultValue>'Pre-Req for Files module'</defaultValue>
+      <description></description>
+      <id>b61c4fdb-fac9-4284-8e40-06b3d6c8ef31</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'FilesModule.zip'</defaultValue>
+      <description></description>
+      <id>0baf88b3-6668-41d0-87a5-409c083199c5</id>
+      <masked>false</masked>
+      <name>ToUpload</name>
+   </variable>
+</TestCaseEntity>

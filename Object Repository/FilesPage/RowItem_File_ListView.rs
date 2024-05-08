@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RowItem_File_ListView</name>
+   <tag></tag>
+   <elementGuidId>b2c6dd6e-de14-4486-8021-e450419ef111</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@data-automation-id = 'Myfile']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fileviewer_filelist_table']/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>Myfile</value>
+      <webElementGuid>29de7556-9495-466e-a2ea-6ca73742579f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1a9271c-ce77-45da-9426-47c673954dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@id='file_text']</value>
+      <webElementGuid>21033030-ea7a-4d52-88f4-903bcfe8a468</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fileviewer_filelist_table']/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/span/div/div</value>
+      <webElementGuid>592fda07-8bfd-4891-9959-3fe956de1b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Size'])[1]/following::div[18]</value>
+      <webElementGuid>6c9d8553-925f-4fa4-9d0e-18957f0599ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[1]/following::div[22]</value>
+      <webElementGuid>4a438aa6-b186-44cf-878f-e2aad850d142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pbsadmin'])[3]/preceding::div[7]</value>
+      <webElementGuid>5541fd66-e181-4d67-847f-869991d2bc74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/preceding::div[27]</value>
+      <webElementGuid>5a740b34-66a8-490e-bcff-d750e920398f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/div/div</value>
+      <webElementGuid>f995e3d9-61d7-4241-a4ab-fe0e376550fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JobSubmission_ShowAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecadae11-cc57-496e-8c04-2af3ae2dc62c</testCaseGuid>
+   <variable>
+      <defaultValue>'ShellScript'</defaultValue>
+      <description></description>
+      <id>e571ef8b-aa9f-49a8-af52-156d66962f76</id>
+      <masked>false</masked>
+      <name>AppName</name>
+   </variable>
+   <variable>
+      <defaultValue>'RunJob.sh'</defaultValue>
+      <description></description>
+      <id>18519a09-984f-40c9-8639-c8d7b4502c2b</id>
+      <masked>false</masked>
+      <name>InputFile</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Case to Verify Help box is Enabled'</defaultValue>
+      <description></description>
+      <id>f5cbeed2-37e7-4a0d-beb2-a70355ad502c</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Job Script'</defaultValue>
+      <description></description>
+      <id>a057abe7-9355-47dc-a192-0e9fe8c12022</id>
+      <masked>false</masked>
+      <name>FileArg</name>
+   </variable>
+   <variable>
+      <defaultValue>'Remote'</defaultValue>
+      <description></description>
+      <id>1e06f69f-d533-4c76-bb3d-9a88faed5f47</id>
+      <masked>false</masked>
+      <name>ExecMode</name>
+   </variable>
+   <variable>
+      <defaultValue>'SetOutPutDir'</defaultValue>
+      <description></description>
+      <id>4e5d9090-f156-44c9-bc64-17085bb5ceca</id>
+      <masked>false</masked>
+      <name>ToChange</name>
+   </variable>
+   <variable>
+      <defaultValue>'newOutPutDir'</defaultValue>
+      <description></description>
+      <id>b152a84d-a51d-4dd7-8302-058135d93961</id>
+      <masked>false</masked>
+      <name>ChangeValue</name>
+   </variable>
+</TestCaseEntity>

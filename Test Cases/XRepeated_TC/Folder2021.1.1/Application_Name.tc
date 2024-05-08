@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Application_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1ede71f-c207-4338-bc3e-46edb99e7b03</testCaseGuid>
+   <variable>
+      <defaultValue>'Detele check'</defaultValue>
+      <description></description>
+      <id>da95bcdd-96e2-480a-8cb5-1895a5b904b0</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ServerMan'</defaultValue>
+      <description></description>
+      <id>e523dd49-30f9-4e4a-962c-6b237d006e42</id>
+      <masked>false</masked>
+      <name>userChoice</name>
+   </variable>
+</TestCaseEntity>

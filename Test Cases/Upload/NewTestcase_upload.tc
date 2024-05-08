@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewTestcase_upload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c22cc3b-71b0-4678-9108-96360ac10c9c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7fd8da46-d669-4970-a771-ff3b9bcbc69a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>faa67465-3ced-4f85-9eee-664c79e43c8c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95f26520-b2ee-4bda-8975-352c6c6b6388</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7fd8da46-d669-4970-a771-ff3b9bcbc69a</id>
+      <masked>false</masked>
+      <name>UserChoice</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>faa67465-3ced-4f85-9eee-664c79e43c8c</id>
+      <masked>false</masked>
+      <name>TestCaseName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95f26520-b2ee-4bda-8975-352c6c6b6388</id>
+      <masked>false</masked>
+      <name>InputFolder</name>
+   </variable>
+</TestCaseEntity>

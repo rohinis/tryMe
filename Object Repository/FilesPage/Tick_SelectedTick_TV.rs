@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tick_SelectedTick_TV</name>
+   <tag></tag>
+   <elementGuidId>15ee3439-dadf-40b8-971e-d52a4a38a964</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//i[@class = 'unity_check']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@class='unity_check']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>16b6b1d5-4f23-453a-8673-c6d34dc365d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unity_check</value>
+      <webElementGuid>f9fcaf62-e5cb-4baa-8076-feb8f16832b7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
